@@ -1,0 +1,95 @@
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.exe
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.deps.json
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.runtimeconfig.json
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.dll
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.pdb
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form1.resources
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Properties.Resources.resources
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.dll
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\refint\ImageEditor.dll
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.pdb
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ref\ImageEditor.dll
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form2.resources
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\MySql.Data.DLL
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.CopyComplete
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form3.resources
+C:\Users\Daniel\Desktop\PROIECTE\EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form4.resources
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.exe
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.deps.json
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.runtimeconfig.json
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.pdb
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\MySql.Data.DLL
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.AssemblyReference.cache
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form1.resources
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form2.resources
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form3.resources
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form4.resources
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Properties.Resources.resources
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.GenerateResource.cache
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.AssemblyInfoInputs.cache
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.AssemblyInfo.cs
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.CoreCompileInputs.cache
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.CopyComplete
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\refint\ImageEditor.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.pdb
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.genruntimeconfig.cache
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ref\ImageEditor.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form5.resources
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\userData.JSON
+F:\Documents\ISM CURSURI\AN 4 SEM 1\TEME SEM 1\EAV\PROIECT EAV\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\savedImages.JSON
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.exe
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\savedImages.JSON
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\userData.JSON
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.deps.json
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.runtimeconfig.json
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.dll
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\ImageEditor.pdb
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\bin\Debug\net6.0-windows\MySql.Data.DLL
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form1.resources
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form2.resources
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form3.resources
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form4.resources
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Form5.resources
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.Properties.Resources.resources
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.csproj.CopyComplete
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.dll
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\refint\ImageEditor.dll
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.pdb
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ImageEditor.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\PROIECT EAV\ImageEditor\ImageEditor\obj\Debug\net6.0-windows\ref\ImageEditor.dll
